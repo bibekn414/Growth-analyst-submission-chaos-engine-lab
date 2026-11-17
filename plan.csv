@@ -1,0 +1,16 @@
+game,network,platform,country,baseline_weekly_spend,quarter_spend,share_of_quarter_budget,expected_installs,expected_d120_revenue,expected_d120_roas,expected_1y_revenue,expected_1y_roas,note
+Game A,Net-A,android,us,2920.46,17500.0,0.133,5301,16450,0.94,19965,1.1409,
+Game A,Net-A,android,GROUP low-CPI small countries,515.37,12350.0,0.0939,30378,8083,0.6545,9794,0.793,"group of: ad, ae, ar, at, aw, bb, bh, bm, bn, cl, cr, cw, ee, gg, gi, gr, gy, hr, hu, im, is, it, je, jo, kw, ky, lt, lu, lv, mo, mx, my, nc, pa, pe, pf, ph, pl, pt, qa, re, ro, sa, se, si, sk, sm, th, tt, uy, vn; spread across these countries pro rata to their September spend"
+Game A,Net-A,android,jp,453.13,10875.0,0.0826,5732,9535,0.8767,11724,1.0781,
+Game A,Net-A,android,gb,310.13,4650.0,0.0353,2229,4503,0.9685,5338,1.148,
+Game A,Net-A,android,kr,301.34,3300.0,0.0251,1084,3750,1.1364,4552,1.3794,
+Game A,Net-A,android,es,264.95,6350.0,0.0483,11442,6620,1.0426,7708,1.2138,
+Game A,Net-A,android,de,230.54,5533.0,0.042,3766,6440,1.1639,7510,1.3574,
+Game A,Net-A,android,GROUP other small countries,217.91,5230.0,0.0397,3086,7528,1.4394,9224,1.7638,"group of: au, ca, fi, hk, ie, il, nl, no, tw; spread across these countries pro rata to their September spend"
+Game A,Net-A,android,br,187.81,4500.0,0.0342,10784,3128,0.6952,3838,0.8529,
+Game A,Net-A,android,fr,156.3,3750.0,0.0285,5135,2856,0.7616,3512,0.9365,
+Game A,Net-B,android,us,2011.32,12050.0,0.0916,1711,13624,1.1306,16323,1.3546,
+Game A,Net-B,ios,us,1697.89,10050.0,0.0764,2531,7803,0.7764,10181,1.013,
+Game A,Net-C,android,us,1099.61,6750.0,0.0513,3227,7224,1.0702,8938,1.3242,
+Game A,Net-D,android,us,4782.59,28700.0,0.2181,4554,47230,1.6456,54007,1.8818,
+Game A,TOTAL,,,15149.33,131588.0,1.0,90960,144774,1.1002,172616,1.3118,"<= $250,000 cap (spend $131,588); ranges (80%): installs 87,460-94,654; D120 ROAS 0.96-1.29; 1y ROAS 1.13-1.56"

@@ -1,0 +1,9 @@
+network,scenario,avg_cpi_uplift_pct,max_week_cpi_uplift_pct
+Net-A,2 weeks late,5.3370077508585245,42.91566316775033
+Net-A,25% too few,0.20021507841763153,2.289157919375806
+Net-B,2 weeks late,4.418471857996775,31.408533997385256
+Net-B,25% too few,0.0,0.0
+Net-C,2 weeks late,4.425247553758749,31.48840761283511
+Net-C,25% too few,0.0,0.0
+Net-D,2 weeks late,4.4285998608199595,31.527951533909217
+Net-D,25% too few,0.0,0.0

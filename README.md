@@ -149,7 +149,7 @@ Full list: `skipped.md`.
 
 ## 10. AI use
 
-Claude (Anthropic) was used heavily for this assignment, as the brief allows. It wrote the cleaning, modelling, backtest, optimiser and report code, and I reviewed the results. Two mistakes were caught during the work (payer columns read as cumulative; the July revenue jump first read as an outage instead of an ad-rate spike) and one time-saver is described in `ai_log.md`.
+Gemini (Pro High) was used heavily for this assignment along with Claude at some cases, as the brief allows. It wrote the cleaning, modelling, backtest, optimiser and report code, and I reviewed the results. Two mistakes were caught during the work (payer columns read as cumulative; the July revenue jump first read as an outage instead of an ad-rate spike) and one time-saver is described in `ai_log.md`.
 
 ---
 
@@ -162,4 +162,4 @@ python run_all.py        # about 10 to 20 minutes; rebuilds all outputs, memo.pd
 
 Order: value tables (02), backtests (03, 03b), predictions and cross-game (04), organic check (05), plan (06, 06b), creative analysis and plan (07, 08), report (09). `code/common.py` holds the cleaning rules and `code/model.py` the revenue-curve model. `code/audit_exploration/` holds the throw-away scripts behind the data problems table.
 
-*Confidential: the data in `data/` belongs to Chaos Engine Labs. Keep this repository private.*
+*Confidential: the data in `data/` belongs to Chaos Engine Labs.*
